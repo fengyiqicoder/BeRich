@@ -22,6 +22,10 @@ npx skills add fengyiqicoder/BeRich
 
 **发财时间线**：对 Agent 说"调研 chatbase.co"，它会查出这个站从上线到现在，每个月做了什么营销动作、换来什么数字。最后交给你一份逐月时间线，比如"第 2 个月：网红发教程推 → 59.1 万浏览，MRR $10K"，再总结它做对了什么。
 
+![Postiz 的发财时间线结论](assets/postiz-conclusion.webp)
+
+![Postiz 的逐月时间线](assets/postiz-timeline.webp)
+
 **发财因果链**：对 Agent 说"用发财因果链查 Web3Forms 靠什么涨收入"，它会验证到底是哪个动作带来了钱，每一环都要有证据，还要找到至少 3 个同类案例。查完会告诉你哪些做法真的有用，哪些只是看起来有用。
 
 **直接问数据**：比如"收入榜上靠 SEO 起来的 AI 工具有哪些"。Agent 会从闷声发大财 1169 个赚钱网站的公开档案里找答案。
