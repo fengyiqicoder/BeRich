@@ -3,7 +3,7 @@
 # 用法：curl -fsSL https://raw.githubusercontent.com/fengyiqicoder/BeRich/main/install.sh | bash
 set -euo pipefail
 REPO="${BERICH_REPO:-fengyiqicoder/BeRich}"
-HOME_DIR="${BERICH_HOME:-$HOME/.BeRich}"
+HOME_DIR="${BERICH_HOME:-$HOME/.berich}"
 SRC="${BERICH_SRC:-}"   # 本地测试时指向本地目录
 if [ -n "$SRC" ]; then
   rm -rf "$HOME_DIR"; cp -R "$SRC" "$HOME_DIR"
