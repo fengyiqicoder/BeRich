@@ -1,0 +1,65 @@
+# 闷声发大财 (msfdcszhd.com)
+
+> Deep dives into 1169 quietly profitable indie sites: a traffic model for last month and for the path from launch to take-off, how each one started and where its traffic comes from now. 606 were found by tracing checkout pages back to them and are ranked by last month's checkout visits; 563 come from TrustMRR and are ranked by last month's real revenue.
+
+深度解析 1169 个高收入出海网站：每个都有上个月流量模型和发家路径流量模型，看它怎么起家、现在流量从哪来。606 个从付费页反查出来，按上个月付费页访问排序；563 个来自 TrustMRR，按上个月真实收入排序。
+
+## What is on this site
+- Checkout visits board: 606 quietly profitable indie sites found by tracing Similarweb referral traffic to Stripe, Gumroad, Lemon Squeezy, Polar, Creem and Whop checkout pages, ranked by last month's checkout visits. Checkout visits are Similarweb estimates; opening a checkout page is not paying.
+- TrustMRR revenue board: 563 web products listed on TrustMRR with MRR or last-30-day revenue above $1,000, ranked by last month's revenue. Revenue is real payments synced automatically from the founder's Stripe or other payment account, in USD.
+- Every site page (Chinese and English) covers the product, users and pricing; traffic channels (Similarweb: visits, top channels, countries, keywords, referring sites); growth-path labels (take-off year, how it started, growth engine); and an animated traffic model for last month. Paid members (发大财Pro) also see the full growth story and a launch-to-take-off traffic model.
+- Data through last month; pages updated 2026-10-31.
+
+## Key pages
+- Leaderboard: https://msfdcszhd.com/ (Chinese), https://msfdcszhd.com/en/ (English)
+- TrustMRR revenue board: https://msfdcszhd.com/#board=tm
+- One page per site: https://msfdcszhd.com/s/<domain>/ and https://msfdcszhd.com/en/s/<domain>/
+- 发大财Pro, ¥19, one-time: https://msfdcszhd.com/pro/ ; includes a data pack of 15,000 checkout-referring sites plus all TrustMRR revenue data
+- Sitemap: https://msfdcszhd.com/sitemap.xml
+
+## Top 20 by checkout visits last month
+- [Krillion](https://msfdcszhd.com/en/s/krillion.io/): Daily word-association puzzle game: 7 prompts a day, the same for everyone worldwide; the more obscure your answer, the higher your score. Checkout visits last month: 652,144.
+- [Votremelodie](https://msfdcszhd.com/en/s/votremelodie.com/): French-language custom song gifts: the customer fills in a questionnaire telling their story, the team writes lyrics, composes and sings it, and delivers by email within 4 days (optional 24-hour rush). Checkout visits last month: 292,264.
+- [Wiki-masters](https://msfdcszhd.com/en/s/wiki-masters.com/): French card-collecting game: every card is generated from a Wikipedia article; players open packs, battle friends, join guilds, climb leaderboards, and trade at auction. Checkout visits last month: 197,708.
+- [Wavespeed](https://msfdcszhd.com/en/s/wavespeed.ai/): Platform hosting 1000+ AI image, video, audio, 3D and LLM models, callable via web, API, CLI/MCP and desktop, billed per call. Checkout visits last month: 189,112.
+- [Starii](https://msfdcszhd.com/en/s/starii.com/): Starii's corporate site, listing its 5 AI apps: ZAWA (brand design Agent), VMAKE (video), MVLAND (music to video), ARTFLO (creative workflows), KOOZEE (AI try-on / virtual models). Checkout visits last month: 184,814.
+- [Inmatecanteen](https://msfdcszhd.com/en/s/inmatecanteen.com/): Service for depositing money into US inmates' accounts and ordering jail commissary items on their behalf. Checkout visits last month: 180,516.
+- [Mtcgame](https://msfdcszhd.com/en/s/mtcgame.com/): Cyprus-based game store (claims to be founded in 1997) selling game top-up cards, gift cards and other gaming products. Checkout visits last month: 167,622.
+- [Atlasearth](https://msfdcszhd.com/en/s/atlasearth.com/): Location-based mobile game ATLAS:EARTH: buy virtual parcels on a real map that accrue "rent" every second, redeemable for dollars or gift cards; the website is mainly a download entry point and merch store. Checkout visits last month: 146,132.
+- [Mobbin](https://msfdcszhd.com/en/s/mobbin.com/): Searchable library of real app and website UI screenshots and flows (620K+ screens, updated weekly), also accessible to AI agents via MCP. Checkout visits last month: 146,132.
+- [16personalities](https://msfdcszhd.com/en/s/16personalities.com/): Free 10-minute MBTI-style personality test with personality, relationship and career profiles for each type; monetized through a paid career suite and team assessments. Checkout visits last month: 138,533.
+- [Omegleweb](https://msfdcszhd.com/en/s/omegleweb.com/): Free, no-signup 18+ random stranger text and video chat, with interest-based matching. Checkout visits last month: 137,536.
+- [Uploadhaven](https://msfdcszhd.com/en/s/uploadhaven.com/): File hosting for sharing large files, up to 100GB per file; free downloads are speed-limited with a wait, while paid Pro removes ads and speed limits. Checkout visits last month: 107,450.
+- [Viblo](https://msfdcszhd.com/en/s/viblo.ai/): AI short-video editing in the browser: auto clipping, AI voiceover and captions, timeline editing, with export to Shorts/TikTok/Reels. Checkout visits last month: 107,450.
+- [Packs](https://msfdcszhd.com/en/s/packs.com/): Open physical trading card packs online: pay to open a pack, and the real cards you pull can be shipped or sold back at any time; the homepage scrolls live pulls as they happen. Checkout visits last month: 98,854.
+- [Turbo](https://msfdcszhd.com/en/s/turbo.ai/): AI study tool (formerly TurboLearn): upload class recordings, PDFs, YouTube videos or notes to generate notes, flashcards, quizzes and podcasts. Checkout visits last month: 98,854.
+- [Nexyy](https://msfdcszhd.com/en/s/nexyy.com/): A search directory for VRChat avatars, worlds and assets, aggregating free and paid items from Gumroad, Payhip and Sellfy. Checkout visits last month: 91,662.
+- [Vidrush](https://msfdcszhd.com/en/s/vidrush.ai/): AI long-form video generation: enter a one-line brief and it handles research, script, voiceover, footage, editing and thumbnail automatically, producing a video within an hour. Checkout visits last month: 90,258.
+- [Nomads](https://msfdcszhd.com/en/s/nomads.com/): Formerly Nomad List: compares cities on cost of living, internet speed, weather and other metrics, with member chat, meetups, dating, and trip logs. Checkout visits last month: 85,960.
+- [Servicecartegrise](https://msfdcszhd.com/en/s/servicecartegrise.com/): A French private service that handles vehicle registration certificate (carte grise) paperwork on your behalf: ownership transfer, replacement, address change, imported-vehicle registration and more, processed within... Checkout visits last month: 81,662.
+- [Fantalab](https://msfdcszhd.com/en/s/fantalab.it/): An Italian fantasy football (Fantacalcio) tool, including a league auction assistant and management features. Checkout visits last month: 77,364.
+
+## Top 20 by TrustMRR revenue last month
+- [Stan](https://msfdcszhd.com/en/s/stan.store/): A one-stop store where creators sell courses, digital products, and consulting from their social bio. Revenue last month: $2,985,945 (TrustMRR sync stopped 6 months ago; last full month).
+- [Chatbase](https://msfdcszhd.com/en/s/chatbase.co/): Users upload a website, documents, and other material and build an AI chatbot that answers customer questions in a few minutes, then put it on their website, chat tools, email, and voice channels for customer support... Revenue last month: $901,573 (TrustMRR sync stopped 3 months ago; last full month).
+- [Stackinfluence](https://msfdcszhd.com/en/s/stackinfluence.com/): A managed micro-influencer marketing service for e-commerce brands, paid per post. Revenue last month: $845,823.
+- [Trycomp](https://msfdcszhd.com/en/s/trycomp.ai/): An open-source AI compliance platform that helps startups prepare for SOC 2 audits. Revenue last month: $716,935.
+- [Gojiberry](https://msfdcszhd.com/en/s/gojiberry.ai/): Monitors buying signals such as LinkedIn likes, comments, job changes, and funding rounds to find high-intent prospects, then automatically sends personalized outreach by email and LinkedIn, handles replies, and... Revenue last month: $407,786 (TrustMRR sync stopped 2 months ago; last full month).
+- [1lookup](https://msfdcszhd.com/en/s/1lookup.io/): One API and one shared credit balance for real-time phone, email, and IP validation, plus data enrichment such as company and social profile lookups, reverse lookups, and skip tracing. Revenue last month: $396,371.
+- [Llmgateway](https://msfdcszhd.com/en/s/llmgateway.io/): Provides an OpenAI-compatible unified API and a single key that routes to 40+ model providers, with usage and cost analytics, caching, and failover. Revenue last month: $249,922 (TrustMRR sync stopped 1 months ago; last full month).
+- [Postiz](https://msfdcszhd.com/en/s/postiz.com/): An open-source social media scheduling and publishing tool that works with AI agents. Revenue last month: $247,809.
+- [Rezi](https://msfdcszhd.com/en/s/rezi.ai/): An AI tool for generating, scoring, and revising resumes. Revenue last month: $225,184.
+- [Cometly](https://msfdcszhd.com/en/s/cometly.com/): Tracks the full path from ad click to sale, sends real conversion data back to ad platforms such as Meta and Google, helps media buyers see how much in sales each slice of ad budget produces, and supports querying... Revenue last month: $205,353.
+- [Unfair](https://msfdcszhd.com/en/s/unfair.so/): An X promotion platform that matches creators by audience and posts product launch tweets in a coordinated burst. Revenue last month: $186,073.
+- [Yew](https://msfdcszhd.com/en/s/yew.gg/): Sells game scripts that run on the Cronus Zen controller adapter, mainly a shooting-assist script for each new NBA 2K (yew2K) and a Fortnite script. Revenue last month: $177,357.
+- [Aeoengine](https://msfdcszhd.com/en/s/aeoengine.ai/): A monthly-fee AEO/GEO managed service: it handles content, structured data, and citation optimization for brands so they appear in answers from AI search such as Google AI Overviews, ChatGPT, and Perplexity. Revenue last month: $164,301.
+- [Kibu](https://msfdcszhd.com/en/s/kibu.com/): A SaaS for agencies serving people with intellectual and developmental disabilities (IDD), covering compliant documentation, electronic visit verification, billing, medication records, and reports. Revenue last month: $150,132 (TrustMRR sync stopped 6 months ago; last full month).
+- [Windmillgrowth](https://msfdcszhd.com/en/s/windmillgrowth.com/): The founder talks with the team once a week; Windmill's writers write and publish the content, then run LinkedIn outreach and engagement, so the founder's personal account brings in booked calls and sales leads. Revenue last month: $115,232.
+- [Indexsy](https://msfdcszhd.com/en/s/indexsy.com/): A Vancouver, Canada SEO agency that sells backlinks per order (niche edits, guest posts, BrowserBlast backlink distribution), local SEO citations, and full-site SEO services, while running its own small SaaS products... Revenue last month: $104,007.
+- [Prosp](https://msfdcszhd.com/en/s/prosp.ai/): A LinkedIn outreach tool that uses AI to write personalized direct messages and voice notes. Revenue last month: $98,046 (TrustMRR sync stopped 8 months ago; last full month).
+- [Creativeclaw](https://msfdcszhd.com/en/s/creativeclaw.co/): A remote MCP connector: add one URL in Claude, ChatGPT, Codex, or Cursor and you can call models such as Flux, Seedance, Kling, and ElevenLabs to generate images, video, and voiceovers, paid with credits that never... Revenue last month: $92,894.
+- [Redditagency](https://msfdcszhd.com/en/s/redditagency.com/): A marketing agency that runs Reddit for brands end to end so ChatGPT and Google recommend them. Revenue last month: $92,525.
+- [Upscaleb2b](https://msfdcszhd.com/en/s/upscaleb2b.com/): Done-for-you cold email outreach for B2B companies, plus warmed-up inboxes. Revenue last month: $84,575.
+
+## How to cite
+Cite as "闷声发大财 (msfdcszhd.com)" and link the site page. Checkout visits are Similarweb estimates; revenue figures are TrustMRR-synced payments in USD.
